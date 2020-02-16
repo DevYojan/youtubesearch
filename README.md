@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# YoutubeSearch
+This is a simple app built on react that searches and plays youtube videos.
 
 ## Available Scripts
 
